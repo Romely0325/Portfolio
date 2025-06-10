@@ -48,4 +48,4 @@
 </table>
 
 ## Projects
-- [탑 다운 턴제 RPG Hospes](https://github.com/Romely0325/Hospes?tab=readme-ov-file)
+- [탑 다운 턴제 RPG Hospes](https://github.com/Romely0325/Hospes?tab=readme-ov-file) (2025.05~2025.10 예정)
