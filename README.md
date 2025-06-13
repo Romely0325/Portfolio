@@ -48,12 +48,12 @@
   </td>
 </table>
 
-## Education
+## Computer Language
 - [C++](https://romely.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/C%26C%2B%2B)
 - [C#](https://romely.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/C%23)
 - [Java](https://romely.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/Java)
 
-## CS
+## Computer Science
 - [Network](https://romely.tistory.com/category/CS/Network)
 - [Data Structure](https://romely.tistory.com/category/CS/Data%20Structure)
 - [Algorithm](https://romely.tistory.com/category/CS/Algorithm)
@@ -66,6 +66,7 @@
 
 3D 작업
 - [유데미 블렌더 3D 기초 강의](https://www.udemy.com/share/109c4M3@4pekWRijc9rqMpGt_g62aKMYW_7jyobbygyR2hYNBfG3rtGIUxxmfmZntROi2zsWMw==/) (2025.05~)
+- [유데미 언리얼 스타일라이즈드 환경 개발 강의](https://www.udemy.com/course/creating-a-stylized-environment-in-unreal-engine-5/?couponCode=PLOYALTY0923) (2025.06~)
 
 그외
 - 영어 (2024~)
