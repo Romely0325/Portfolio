@@ -48,40 +48,47 @@
   </td>
 </table>
 
-## Projects
-- (언리얼) [탑 다운 턴제 RPG Hospes](https://github.com/Romely0325/Hospes?tab=readme-ov-file) (2025.05~2025.10 예정)
-
 ## Education
-- [C++]()
-- [C#]()
-- [Java]()
-- []()
+- [C++](https://romely.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/C%26C%2B%2B)
+- [C#](https://romely.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/C%23)
+- [Java](https://romely.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%96%B8%EC%96%B4/Java)
+
+## CS
+- [Network](https://romely.tistory.com/category/CS/Network)
+- [Data Structure](https://romely.tistory.com/category/CS/Data%20Structure)
+- [Algorithm](https://romely.tistory.com/category/CS/Algorithm)
 
 ## Study
 언리얼 엔진
-- [유데미 언리얼 엔진 C++ 기초 강의]() (2025~)
-- [유데미 언리얼 엔진 머티리얼 강의]() (2025~)
+- [유데미 언리얼 엔진 C++ 기초 강의](https://www.udemy.com/share/108sS83@qS4gLmspi6w9s9IpeihHLUegEU-ekepQAi85_mAf25uo0vXA_qhze-CrOSezzvf1Dg==/) (2025.02~)
+- [유데미 언리얼 엔진 GAS 탑 다운 게임 강의](https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/learn/lecture/37324564?start=645#overview) (2025.06~)
+- [유데미 언리얼 엔진 머티리얼 강의](https://www.udemy.com/course/unreal-engine5-material-korean/) (2025.06~)
 
 3D 작업
-- [유데미 블렌더 3D 기초 강의]() (2025~)
-- [유데미 언리얼 블렌더 활용 강의]() (2025~)
+- [유데미 블렌더 3D 기초 강의](https://www.udemy.com/share/109c4M3@4pekWRijc9rqMpGt_g62aKMYW_7jyobbygyR2hYNBfG3rtGIUxxmfmZntROi2zsWMw==/) (2025.05~)
 
 그외
-- [토익]() (2025~)
-- [수학]() (2022~)
+- 영어 (2024~)
+- 수학 (2022~)
 
 ## Activity
 온라인
-- [구직정보 분석의 모든 것: 산업, 기업, 직무분석]() (2025.05.01~2025.05.05)
-- [다양한 구직정보의 분석 및 활용 전략]() (2025.05.01~2025.05.20)
-- [시선을 사로잡는 서류전형 준비]() (2025.05.01~2025.05.20)
-- [마음을 사로잡는 면접전형 준비]() (2025.05.01~2025.05.21)
-- [언택트 취업&진로 특강]() (2025.05.01~2025.05.28)
+- [사이버진로교육센터 이수](file/윤승재_201904036_함석현_사이버진로교육센터.pdf) (2025.05.01~2025.05.21)
+- 구직정보 분석의 모든 것: 산업, 기업, 직무분석 (2025.05.01~2025.05.05)
+- 다양한 구직정보의 분석 및 활용 전략 (2025.05.01~2025.05.20)
+- 시선을 사로잡는 서류전형 준비 (2025.05.01~2025.05.20)
+- 마음을 사로잡는 면접전형 준비 (2025.05.01~2025.05.21)
+- [언택트 취업&진로 특강](file/윤승재_201904036_함석현_언택트취업&진로.pdf) (2025.05.01~2025.05.28)
 
 오프라인
-- [대학교 취업특강]() (2025.05.07~2025.05.14)
-- [AI 엑스포 참관]() (2025.05.16)
-- [스터디 활동 - Hospes 팀 프로젝트]() (2025.05.01~2025.05.28)
+- [재맞고 직업선호도 검사 L형](file/J5_윤승재_201904036_함석현_직업선호도검사L형참여확인서.jpg) (2025.05.07)
+- [대학교 취업특강](file/J5_윤승재_201904036_함석현_취업특강참여확인서.jpg) (2025.05.14)
+- [AI 엑스포 참관](file/윤승재_201904036_함석현_AI엑스포활동보고서.pdf) (2025.05.16)
+- [스터디 활동 - Hospes 팀 프로젝트](file/윤승재_201904036_함석현_스터디합본.pdf) (2025.05.01~2025.05.28)
+
+## Projects
+- (유니티) [변칙 캐릭터 오목](https://github.com/JIN-YOO-YU/Omok) (2025.03~2025.05)
+- (언리얼) [탑 다운 턴제 RPG Hospes](https://github.com/Romely0325/Hospes?tab=readme-ov-file) (2025.05~2025.10 예정)
 
 ## Information
 - 이메일: gromelthing@gmail.com
